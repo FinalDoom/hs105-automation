@@ -5,7 +5,7 @@ Right now, the script supports sending on and off commands only. The only other 
 
 ## Getting Started
 
-The scirpts provided were written to run on a FreeBSD based system, but should be good to go on any system.
+The scripts provided were written to run on a FreeBSD based system, but should be good to go on any system.
 
 ### Prerequisites
 
