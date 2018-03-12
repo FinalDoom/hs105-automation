@@ -34,7 +34,7 @@ No installation is required, just clone and execute.
 
 ### Usage Ideas
 
-Add to [HA-Bridge](/bwssytems/ha-bridge) bin and configure script execution to allow Harmony universal remote systems to access HS105 outlets masquerading as hue lights.
+Add to [HA-Bridge](https://github.com/bwssytems/ha-bridge) bin and configure script execution to allow Harmony universal remote systems to access HS105 outlets masquerading as hue lights.
 
 Add to cron to powercycle modem periodically.
 
